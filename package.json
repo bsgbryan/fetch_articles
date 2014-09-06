@@ -1,0 +1,30 @@
+{
+  "name": "fetch_articles",
+  "version": "1.0.0",
+  "description": "Fetch all articles from an RSS feed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bsgbryan/fetch_articles.git"
+  },
+  "keywords": [
+    "fetch",
+    "articles",
+    "rss"
+  ],
+  "author": "Bryan Maynard <bsgbryan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsgbryan/fetch_articles/issues"
+  },
+  "homepage": "https://github.com/bsgbryan/fetch_articles",
+  "dependencies": {
+    "feedparser": "^0.19.1",
+    "iconv": "^2.1.4",
+    "q": "^1.0.1",
+    "request": "^2.40.0"
+  }
+}
