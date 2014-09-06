@@ -1,6 +1,6 @@
 {
   "name": "fetch_articles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetch all articles from an RSS feed",
   "main": "index.js",
   "scripts": {
